@@ -1,5 +1,5 @@
-# welcome index.md!
+# Welcome index.md!
 
 [About me](about.md)
 
-## Work in Progress!
+### Work in Progress!
